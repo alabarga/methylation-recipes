@@ -1,0 +1,2 @@
+/usr/lib/R/bin/exec/R --slave --vanilla -e source('/usr/lib/rstudio/R/Tools.R');source('/usr/lib/rstudio/R/modules/SessionCodeTools.R');source('/usr/lib/rstudio/R/modules/SessionRCompletions.R');.rs.getPackageInformation('ChAMP','ENmix','MLML2R','OxyBS','limma','minfi','plotly','reshape');
+
